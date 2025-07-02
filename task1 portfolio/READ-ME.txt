@@ -1,0 +1,40 @@
+# Personal Resume Website
+
+A modern and responsive personal resume website built using HTML, CSS, Bootstrap, and JavaScript. 
+This project showcases personal details, education, skills, projects, and contact information in a stylish and accessible format.
+
+
+
+
+
+## 🚀 Features
+
+- Responsive layout using Bootstrap 4
+- Sidebar navigation with Font Awesome icons
+- Sections: About, Education, Skills, Certifications, Projects, Contact
+- Contact form (non-functional – placeholder form)
+- Smooth scrolling and animations
+- Linked social media profiles
+- Typing effect using `typed.js`
+- Lightbox-enabled image previews for project section
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 4
+- JavaScript (ES6)
+- Font Awesome
+- Google Fonts
+- Slick Carousel
+- Lightbox2
+- Typed.js
+
+
+## 🧑‍💻 Author
+
+**Nallaralla Tejaswini**  
+- Email: [tejaswini8038@gmail.com](mailto:tejaswini8038@gmail.com)  
+- LinkedIn: [linkedin.com/in/nallaralla-tejaswini-497669287](https://www.linkedin.com/in/nallaralla-tejaswini-497669287/)
+
+
